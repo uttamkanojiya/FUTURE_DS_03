@@ -1,0 +1,5 @@
+I have this dataset for data analysis: Bank Marketing Dataset (UCL)
+https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+For data cleaning i have used the python(pandas).
+Then this updated dataset is used in power BI for making the Dashboard.
